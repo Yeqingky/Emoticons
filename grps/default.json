@@ -81,5 +81,12 @@
       { "key": "", "val": "🚀" }
     ]
   },
-  "https://cdn.jsdelivr.net/gh/qwqcode/huaji/huaji.json"
+  {
+    "name": "猫猫刨手手",
+    "type": "image",
+    "items": [
+      { "key": "mao_shou_1", "val": "https://list.yeqing.net/d/cos/image/a74ca398376649e62945163ba63cad19.jpg" },
+      { "key": "mao_shou_2", "val": "https://list.yeqing.net/d/cos/image/55520b490ac410d357763332af6fd4bd.jpg" }
+    ]
+  }
 ]
